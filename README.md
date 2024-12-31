@@ -2,7 +2,8 @@
 
 **`Passionate about combining data, analytics & AI with fundamental financial domain experience to extract alpha and insights`**
 
-Hi my name is Nicholas, I recently graduated with an integrated Master’s degree in Engineering (MEng) from the University of Oxford, specialising in Machine Learning. During my studies, I had the privilege of working alongside the Oxford-Man Institute of Quantitative Finance, where I collaborated with Jan-Peter Calliess and Fabian Krause on my Master’s thesis. The focus of the thesis was to improve the uncertainty quantification and interpretability of neural network decision-making using a novel probabilistic logic augmentation framework, and applying it on financial time series data to enhance portfolio optimisation, risk management, and market trend indentification.
+Hi my name is Nicholas, I recently graduated with an integrated Master’s degree in Engineering (MEng) from the University of Oxford, specialising in Machine Learning. During my studies, I conducted machine learning research at the Oxford-Man Institute of Quantitative Finance under the supervision of Jan-Peter Calliess and in collaboration with Fabian Krause, achieving a Master's thesis mark of 77%. Together, we developed an innovative algorithmic framework in Python to improve the uncertainty quantification and interpretability of neural network decision-making using a novel probabilistic logic augmentation framework, and applied it on financial time series data to enhance portfolio optimisation, risk management, and market trend identification, achieving Sharpe ratios up to 4x higher.
+
 
 <!--
 Check it out [here](https://github.com/Nicholas-McColgan/Neural-Network-Interpretability).

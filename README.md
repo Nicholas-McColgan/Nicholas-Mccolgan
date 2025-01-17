@@ -2,11 +2,7 @@
 
 **`Passionate about combining data, analytics & AI with fundamental financial domain experience to extract alpha and insights`**
 
-Hi my name is Nicholas, I recently graduated with an integrated Master’s degree in Engineering (MEng) from the University of Oxford, specialising in Machine Learning. Driven by a passion for combining data, analytics & AI with fundamental financial domain experience to extract alpha and insights, I conducted machine learning research at the Oxford-Man Institute of Quantitative Finance under the supervision of Jan-Peter Calliess and in collaboration with industry professional Fabian Krause, achieving a Master's thesis mark of 77%. Together, we developed an innovative algorithmic framework in Python to improve the uncertainty quantification and interpretability of neural network decision-making using a novel probabilistic logic augmentation framework, and applied it to financial time series data to enhance portfolio optimisation, risk management, and market trend identification, achieving Sharpe ratios up to 4x higher.
-
-<!--
-Check it out [here](https://github.com/Nicholas-McColgan/Neural-Network-Interpretability).
--->
+Hi my name is Nicholas, I recently graduated with a Master of Engineering (MEng) from the University of Oxford, specialising in Machine Learning. Conducted machine learning research at the Oxford-Man Institute of Quantitative Finance under the supervision of Jan-Peter Calliess and in collaboration with Fabian Krause, who led the Quant Technology team at Man GLG. We developed a Python-based algorithmic framework to improve the uncertainty quantification and interpretability of neural network models using a novel probabilistic logic augmentation framework, applying it to financial time series data to enhance market trend identification, portfolio optimisation, and risk management. Achieving Sharpe ratios up to 4x higher, enhanced uncertainty estimates by 58%, and derived novel trading strategies, culminating in a Master’s thesis mark of 77%. Check it out [here](https://github.com/Nicholas-McColgan/Neural-Network-Interpretability).
 
 ---
 
